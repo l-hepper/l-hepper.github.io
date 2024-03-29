@@ -191,6 +191,21 @@ header {
   animation: slideIn 1s ease forwards;
 }
 
+.samu-quote {
+  margin-left: 40rem;
+  font-size: 1.2rem;
+}
+
+.noun {
+  color: grey;
+}
+
+.samu-def {
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-left: 41rem;
+}
+
 @keyframes slideIn {
   from {
     opacity: 0;
